@@ -16,6 +16,3 @@ resource "aws_autoscaling_group" "perforce-auto" {
     }
 }
 
-variable "name_prifix" {
-        type = string
-}
