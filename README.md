@@ -1,4 +1,1 @@
-# ec2
-# ec2
-# ec2
-# perforce
+#added priv key
